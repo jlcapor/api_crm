@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Solangie Alvarez",
+      "empresa": "Empresa Distribuidora de alimentos",
+      "email": "solangiealvarez@gmail.com",
+      "telefono": "34356789",
+      "notas": "Emprende con con Sol",
+      "id": 9
+    },
+    {
+      "nombre": "JOSE LUIS CAPOTE",
+      "empresa": "EE",
+      "email": "jcapoterojas30@gmail.com",
+      "telefono": "4012944",
+      "notas": "Desarrollo web",
+      "id": 10
+    }
+  ]
+}
